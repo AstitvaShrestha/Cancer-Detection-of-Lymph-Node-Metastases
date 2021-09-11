@@ -5,18 +5,18 @@ The aim of the project is to build a Deep Learning Binary Classifier to help det
 
 ## Architecture
 <p align="center">
-  <img src="https://github.com/AstitvaShrestha/Cancer-Detection-of-Lymph-Node-Metastases/tree/main/blob/images/architecture.png">
+  <img src="blob/images/architecture.PNG"/>
 </p>
 
 ## Results
 <p align="center">
-  <img src="https://github.com/AstitvaShrestha/Cancer-Detection-of-Lymph-Node-Metastases/tree/main/blob/images/results.png">
+  <img src="blob/images/results.PNG"/>
 </p>
 <p align="center">
-  <img src="https://github.com/AstitvaShrestha/Cancer-Detection-of-Lymph-Node-Metastases/tree/main/blob/images/roc_curve.png">
+  <img src="blob/images/roc_curve.PNG"/>
 </p>
 <p align="center">
-  <img src="https://github.com/AstitvaShrestha/Cancer-Detection-of-Lymph-Node-Metastases/tree/main/blob/images/loss_result.png">
+  <img src="blob/images/loss_result.PNG"/>
 </p>
 
 ## Contributors
