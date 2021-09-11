@@ -5,21 +5,21 @@ The aim of the project is to build a Deep Learning Binary Classifier to help det
 
 ## Architecture
 <p align="center">
-  <img src="/blob/images/architecture.png">
+  <img src="blob/images/architecture.png">
 </p>
 
 ## Results
 <p align="center">
-  <img src="/blob/images/results.png">
+  <img src="blob/images/results.png">
 </p>
 <p align="center">
-  <img src="/blob/images/roc_curve.png">
+  <img src="blob/images/roc_curve.png">
 </p>
 <p align="center">
-  <img src="/blob/images/loss_result.png">
+  <img src="blob/images/loss_result.png">
 </p>
 
-## 6. Contributors
+## Contributors
    1. [Astitva Shrestha](https://www.linkedin.com/in/astitva17a87/)
    2. [Navdeep Singh Hada](https://www.linkedin.com/in/navdeep-singh-hada-a102b7190/)
    
